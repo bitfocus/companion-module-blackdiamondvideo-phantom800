@@ -1,1 +1,1 @@
-# companion-module-blackdiamontvideo-phantom800
+# companion-module-blackdiamondvideo-phantom800
