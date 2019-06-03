@@ -9,7 +9,7 @@
   "manufacturer": "Black Diamond Video",
   "product": "Phantom 800",
   "shortname": "Phantom-800",
-  "description": "Matrix plugin for Companion",
+  "description": "Phantom 800 plugin for Companion",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
