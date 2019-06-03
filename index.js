@@ -32,7 +32,7 @@ instance.prototype.init = function() {
 
 
 
-// Taken from MA2, what does this even do??
+// Taken from MA2 module
 instance.prototype.init_tcp = function() {
 	var self = this;
 	var receivebuffer = '';
@@ -298,7 +298,7 @@ instance.prototype.actions = function(system) {
 				type: 'dropdown',
 				label: 'On/Off',
 				id: 'boubo',
-				default: 'OFF',
+				default: 'UBO ',
 				choices: [
 					{ label: 'ON', id: 'BO '}, 
 					{ label: 'OFF', id: 'UBO '}
