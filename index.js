@@ -147,7 +147,7 @@ instance.prototype.destroy = function() {
 		self.socket.destroy();
 	}
 
-	debug("destroy", self.id);;
+	debug("destroy", self.id);
 };
 
 // Functions
@@ -300,7 +300,7 @@ instance.prototype.actions = function(system) {
 				id: 'boubo',
 				default: 'UBO ',
 				choices: [
-					{ label: 'ON', id: 'BO '}, 
+					{ label: 'ON', id: 'BO '},
 					{ label: 'OFF', id: 'UBO '}
 				]
 			}]
