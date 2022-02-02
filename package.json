@@ -18,6 +18,10 @@
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "blackdiamondvideo-phantom800"
+		"url": "git+https://github.com/bitfocus/companion-module-blackdiamondvideo-phantom800.git"
+	},
+	"homepage": "https://github.com/bitfocus/companion-module-blackdiamondvideo-phantom800#readme",
+	"bugs": {
+		"url": "https://github.com/bitfocus/companion-module-blackdiamondvideo-phantom800/issues"
 	}
 }
